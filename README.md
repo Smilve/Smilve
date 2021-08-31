@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 I'm Smilve.
 * 🌱 I’m currently learning microservice and big data.
