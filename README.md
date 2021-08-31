@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Smilve.
+* 🌱 I’m currently learning microservice and big data.
+* 💬 You can reach me by email:lvbove@foxmail.com
+
+
+
 <!--
 **Smilve/Smilve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
