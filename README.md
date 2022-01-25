@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 I'm Smilve.
-* 🌱 I’m currently learning microservice and big data.
-* 💬 You can reach me by email:lvbove@foxmail.com
+* 🌱 Java
+* 💬 lvbove@foxmail.com
 
 
 
